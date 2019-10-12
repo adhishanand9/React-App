@@ -1,0 +1,18 @@
+body{
+  background-color: darkslategrey;
+}
+input{
+  margin: 0%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  background-color: steelblue;
+  color: white;
+  font-size: x-large;
+  transform: translate(-50%, -50%);
+  border: white 5px solid;
+  border-radius:2px ;
+  padding-left: 5px;
+  height:2vw;
+}

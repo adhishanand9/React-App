@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06915b1-dd4c-4d38-b611-15993120dd40" name="Default Changelist" comment="" />
+    <list default="true" id="d06915b1-dd4c-4d38-b611-15993120dd40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,11 @@
       <option name="presentableId" value="Default" />
       <updated>1567879551952</updated>
       <workItem from="1567879554463" duration="313000" />
+      <workItem from="1567880338213" duration="26000" />
+      <workItem from="1567880660257" duration="130000" />
+      <workItem from="1568918188148" duration="279000" />
+      <workItem from="1568951759094" duration="1335000" />
+      <workItem from="1568965941468" duration="77000" />
     </task>
     <servers />
   </component>
@@ -71,7 +78,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
